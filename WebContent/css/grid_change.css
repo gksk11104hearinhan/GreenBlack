@@ -1,0 +1,10 @@
+@charset "EUC-KR";
+
+@media (min-width: 768px)
+.col-md-5 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 41.666667%;
+    flex: 0 0 41.666667%;
+    max-width: 32.666667% !important;
+}
+

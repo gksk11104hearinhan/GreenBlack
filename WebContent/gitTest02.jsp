@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-왜 안되는 거지
 	
 	// 파일 생성 이유 //
 	깃허브 커넥팅 오류 수정 및 Push와 Commit이 제대로 되었는지 확인용
